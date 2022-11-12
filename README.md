@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Demetrio Bautista</h1>
+<h1 align="center">Hi 👋, I'm Demet 💻</h1>
 <h3 align="center">A passionate software developer from México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan3911&label=Profile%20views&color=0e75b6&style=flat" alt="ivan3911" /> </p>
 
 - 🌱 I’m currently learning **Frontend, HTML, CSS, Angular, NodeJS, Flutter**
 
-- 💬 Ask me about **.NET, C#**
+- 💬 Ask me about **.NET, C#, Visual Studio**
 
 - 📫 How to reach me **demet2824@gmail.com**
 
