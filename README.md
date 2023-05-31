@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Frontend, HTML, CSS, Angular, NodeJS, Flutter**
+- 🌱 I’m currently learning **Angular, TypeScript, NodeJS, Flutter**
 
 - 💬 Ask me about **.NET, C#, Visual Studio**
 
